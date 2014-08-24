@@ -11,6 +11,11 @@ activityrecognition@smartlab.ws
 www.smartlab.ws
 
 
+[1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. 
+Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. 
+International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
+
+
 A detailed description of the full data set is available:
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
@@ -18,7 +23,6 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 The data used here were downloaded from:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
-
 
 
 The original data set stems from experiments  carried out with a group of 30 volunteers within an age bracket of 19-48 years. 
@@ -84,7 +88,7 @@ tBodyGyroJerkMean
 That is, the original 561-feature vector, was reduced to the list of variables below:
 
 
-The vARIABLES included are:
+The Variables included are:
 ----------------------------
 
  [1] "subjects"                         
